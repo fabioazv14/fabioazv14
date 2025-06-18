@@ -3,7 +3,7 @@
 ### 🚀 Projetos
 
 - 🕹️ [PuzzleLI2](https://github.com/fabioazv14/PuzzleLI2) — Um jogo de lógica feito em C, com interface de terminal
-- 🕹️[Elemental Tpwers](https://github.com/fabioazv14/ElementalTowers) — Jogo de tower defense com torres de elementos
+- 🕹️ [Elemental Towers](https://github.com/fabioazv14/ElementalTowers) — Jogo de tower defense com torres de elementos
 
 
 ### 📊 Estatísticas do GitHub
