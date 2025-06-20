@@ -1,4 +1,4 @@
-<img align="right" height="400" src="https://github.com/fabioazv14/fabioazv14/blob/main/toothless.gif"/>
+<img align="right" height="200" src="https://github.com/fabioazv14/fabioazv14/blob/main/toothless.gif"/>
 
 
 ### 🚀 Projetos
