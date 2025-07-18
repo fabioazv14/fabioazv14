@@ -1,3 +1,5 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:5200c4,100:0008eb&reversal=false" alt="header"/>
+
 <img align="right" height="200" src="https://github.com/fabioazv14/fabioazv14/blob/main/toothless.gif"/>
 
 
@@ -19,3 +21,6 @@
 ![C](https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:5200c4,100:0008eb&reversal=false&section=footer" alt="header"/>
