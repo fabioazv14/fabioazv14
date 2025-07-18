@@ -1,12 +1,24 @@
+<!-- Header -->
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:5200c4,100:0008eb&reversal=false" alt="header"/>
 
-<img align="right" height="200" src="https://github.com/fabioazv14/fabioazv14/blob/main/toothless.gif"/>
 
+<table>
+  <tr>
+    <td>
 
-### 🚀 Projects
+## 🚀 Projects
 
-- 🕹️ [PuzzleLI2](https://github.com/fabioazv14/PuzzleLI2) — Puzzle game with a terminal interface, built with C  
+- 🕹️ [PuzzleLI2](https://github.com/fabioazv14/PuzzleLI2) — Puzzle game with a terminal interface, built with C 
 - 🕹️ [Elemental Towers](https://github.com/fabioazv14/ElementalTowers) — Tower defense game with elemental towers, built with Haskell
+
+    </td>
+    <td>
+      <img height="200" src="https://github.com/fabioazv14/fabioazv14/blob/main/toothless.gif"/>
+    </td>
+  </tr>
+</table>
+
+
 
 
 <br><br><br><br>
@@ -23,4 +35,6 @@
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 
 
+
+<!-- Footer -->
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:5200c4,100:0008eb&reversal=false&section=footer" alt="header"/>
