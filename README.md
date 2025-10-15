@@ -1,14 +1,14 @@
 <h2 align="center">Hey, I'm Fabio</h2>
 
 <p align="center">
-  Currently studying software engineering at Universidade do Minho
+  Currently studying Software Engineering at Universidade do Minho
 </p>
 
 ---
 
 ### 🧩 Projects
 
-- **[PuzzleL12](https://github.com/fabioazv14/PuzzleLI2)**  
+- **[PuzzleLI2](https://github.com/fabioazv14/PuzzleLI2)**  
   Puzzle game with a terminal interface — built with **C**
 
 - **[Elemental Towers](https://github.com/fabioazv14/ElementalTowers)**  
