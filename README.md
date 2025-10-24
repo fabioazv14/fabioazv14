@@ -1,7 +1,10 @@
 <h2 align="center">Hey, I'm Fabio</h2>
 
 <p align="center">
-  Currently studying Software Engineering at Universidade do Minho
+  Studying Software Engineering at Universidade do Minho
+</p>
+<p align="center">
+  Currently learning Vue.js 🤓
 </p>
 
 ---
