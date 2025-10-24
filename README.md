@@ -17,6 +17,9 @@
 - **[ARJ Study](https://github.com/fabioazv14/ARJStudy)**  
   Website about the martial art *Alex Ryu Jitsu* — built with **Next.js** + **TailwindCSS**
 
+- **[i3wm Rice](https://github.com/fabioazv14/i3wm-rice)**  
+  My own-made i3 Window Manager Rice — built with dotfiles
+
 ---
 
 ### 🛠️ Tech Stack
